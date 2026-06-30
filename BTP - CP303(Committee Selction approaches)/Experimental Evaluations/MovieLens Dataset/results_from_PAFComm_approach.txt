@@ -1,0 +1,43 @@
+===== FINAL RESULT =====
+Selected Movies: {288, 100, 269, 50, 185}
+PAV: 1121.7166666666676
+Penalty: 0
+MM: 0.017684514449227914
+
+Selected Movie Details:
+     movie_id final_genre year_group
+49         50      Action        Old
+99        100       Crime        New
+184       185      Horror        Old
+268       269      Comedy        New
+287       288      Horror        New
+
+===== Running for lambda = 10 =====
+Selected set: {258, 100, 50, 181, 286}
+Satisfied constraints: 1/4
+Fairness: 25.00%
+
+===== Running for lambda = 20 =====
+Selected set: {288, 258, 100, 50, 286}
+Satisfied constraints: 1/4
+Fairness: 25.00%
+
+===== Running for lambda = 30 =====
+Selected set: {288, 258, 100, 50, 286}
+Satisfied constraints: 1/4
+Fairness: 25.00%
+
+===== Running for lambda = 40 =====
+Selected set: {288, 258, 100, 50, 185}
+Satisfied constraints: 3/4
+Fairness: 75.00%
+
+===== Running for lambda = 50 =====
+Selected set: {288, 258, 100, 50, 185}
+Satisfied constraints: 3/4
+Fairness: 75.00%
+
+===== Running for lambda = 60 =====
+Selected set: {288, 100, 269, 50, 185}
+Satisfied constraints: 4/4
+Fairness: 100.00%
