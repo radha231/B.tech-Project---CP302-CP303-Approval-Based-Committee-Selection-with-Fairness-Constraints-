@@ -1,0 +1,416 @@
+File: 00068-00001302.soi
+Round 1 winner: 13
+Round 2 winner: 13
+Round 3 winner: 8
+Round 4 winner: 13
+Round 5 winner: 1
+Round 6 winner: 6
+Round 7 winner: 10
+Round 8 winner: 13
+Round 9 winner: 8
+Round 10 winner: 11
+Final sequence of winners: 13 13 8 13 1 6 10 13 8 11
+
+File: 00068-00000008.soi
+Round 1 winner: 2
+Round 2 winner: 3
+Round 3 winner: 4
+Round 4 winner: 6
+Round 5 winner: 2
+Round 6 winner: 5
+Round 7 winner: 3
+Round 8 winner: 4
+Round 9 winner: 6
+Round 10 winner: 1
+Final sequence of winners: 2 3 4 6 2 5 3 4 6 1
+
+File: 00068-00001288.soi
+Round 1 winner: 2
+Round 2 winner: 2
+Round 3 winner: 12
+Round 4 winner: 2
+Round 5 winner: 6
+Round 6 winner: 13
+Round 7 winner: 15
+Round 8 winner: 2
+Round 9 winner: 12
+Round 10 winner: 6
+Final sequence of winners: 2 2 12 2 6 13 15 2 12 6
+
+File: 00068-00000009.soi
+Round 1 winner: 4
+Round 2 winner: 6
+Round 3 winner: 9
+Round 4 winner: 10
+Round 5 winner: 4
+Round 6 winner: 8
+Round 7 winner: 1
+Round 8 winner: 6
+Round 9 winner: 7
+Round 10 winner: 9
+Final sequence of winners: 4 6 9 10 4 8 1 6 7 9
+
+File: 00068-00001238.soi
+Round 1 winner: 1
+Round 2 winner: 1
+Round 3 winner: 1
+Round 4 winner: 2
+Round 5 winner: 1
+Round 6 winner: 4
+Round 7 winner: 5
+Round 8 winner: 1
+Round 9 winner: 2
+Round 10 winner: 1
+Final sequence of winners: 1 1 1 2 1 4 5 1 2 1
+
+File: 00068-00001239.soi
+Round 1 winner: 4
+Round 2 winner: 4
+Round 3 winner: 4
+Round 4 winner: 2
+Round 5 winner: 4
+Round 6 winner: 6
+Round 7 winner: 4
+Round 8 winner: 7
+Round 9 winner: 2
+Round 10 winner: 4
+Final sequence of winners: 4 4 4 2 4 6 4 7 2 4
+
+File: 00068-00001237.soi
+Round 1 winner: 1
+Round 2 winner: 3
+Round 3 winner: 6
+Round 4 winner: 1
+Round 5 winner: 3
+Round 6 winner: 6
+Round 7 winner: 1
+Round 8 winner: 3
+Round 9 winner: 7
+Round 10 winner: 5
+Final sequence of winners: 1 3 6 1 3 6 1 3 7 5
+
+File: 00068-00001236.soi
+Round 1 winner: 2
+Round 2 winner: 2
+Round 3 winner: 2
+Round 4 winner: 3
+Round 5 winner: 2
+Round 6 winner: 5
+Round 7 winner: 1
+Round 8 winner: 2
+Round 9 winner: 3
+Round 10 winner: 2
+Final sequence of winners: 2 2 2 3 2 5 1 2 3 2
+
+File: 00068-00001234.soi
+Round 1 winner: 1
+Round 2 winner: 13
+Round 3 winner: 14
+Round 4 winner: 1
+Round 5 winner: 13
+Round 6 winner: 14
+Round 7 winner: 15
+Round 8 winner: 1
+Round 9 winner: 16
+Round 10 winner: 13
+Final sequence of winners: 1 13 14 1 13 14 15 1 16 13
+
+File: 00068-00001235.soi
+Round 1 winner: 1
+Round 2 winner: 6
+Round 3 winner: 1
+Round 4 winner: 6
+Round 5 winner: 1
+Round 6 winner: 3
+Round 7 winner: 4
+Round 8 winner: 6
+Round 9 winner: 1
+Round 10 winner: 2
+Final sequence of winners: 1 6 1 6 1 3 4 6 1 2
+
+File: 00068-00001233.soi
+Round 1 winner: 1
+Round 2 winner: 3
+Round 3 winner: 6
+Round 4 winner: 1
+Round 5 winner: 3
+Round 6 winner: 6
+Round 7 winner: 1
+Round 8 winner: 2
+Round 9 winner: 4
+Round 10 winner: 3
+Final sequence of winners: 1 3 6 1 3 6 1 2 4 3
+
+File: 00068-00000002.soi
+Round 1 winner: 4
+Round 2 winner: 4
+Round 3 winner: 13
+Round 4 winner: 4
+Round 5 winner: 5
+Round 6 winner: 4
+Round 7 winner: 13
+Round 8 winner: 4
+Round 9 winner: 12
+Round 10 winner: 4
+Final sequence of winners: 4 4 13 4 5 4 13 4 12 4
+
+File: 00068-00001240.soi
+Round 1 winner: 1
+Round 2 winner: 8
+Round 3 winner: 1
+Round 4 winner: 3
+Round 5 winner: 4
+Round 6 winner: 2
+Round 7 winner: 8
+Round 8 winner: 1
+Round 9 winner: 6
+Round 10 winner: 7
+Final sequence of winners: 1 8 1 3 4 2 8 1 6 7
+
+File: 00068-00001241.soi
+Round 1 winner: 2
+Round 2 winner: 6
+Round 3 winner: 2
+Round 4 winner: 1
+Round 5 winner: 3
+Round 6 winner: 6
+Round 7 winner: 2
+Round 8 winner: 1
+Round 9 winner: 6
+Round 10 winner: 2
+Final sequence of winners: 2 6 2 1 3 6 2 1 6 2
+
+File: 00068-00000003.soi
+Round 1 winner: 1
+Round 2 winner: 1
+Round 3 winner: 9
+Round 4 winner: 1
+Round 5 winner: 1
+Round 6 winner: 9
+Round 7 winner: 1
+Round 8 winner: 5
+Round 9 winner: 1
+Round 10 winner: 9
+Final sequence of winners: 1 1 9 1 1 9 1 5 1 9
+
+File: 00068-00001309.soi
+Round 1 winner: 3
+Round 2 winner: 3
+Round 3 winner: 3
+Round 4 winner: 4
+Round 5 winner: 3
+Round 6 winner: 3
+Round 7 winner: 2
+Round 8 winner: 3
+Round 9 winner: 4
+Round 10 winner: 6
+Final sequence of winners: 3 3 3 4 3 3 2 3 4 6
+
+File: 00068-00000001.soi
+Round 1 winner: 6
+Round 2 winner: 8
+Round 3 winner: 9
+Round 4 winner: 1
+Round 5 winner: 6
+Round 6 winner: 7
+Round 7 winner: 8
+Round 8 winner: 9
+Round 9 winner: 1
+Round 10 winner: 5
+Final sequence of winners: 6 8 9 1 6 7 8 9 1 5
+
+File: 00068-00001243.soi
+Round 1 winner: 4
+Round 2 winner: 6
+Round 3 winner: 4
+Round 4 winner: 6
+Round 5 winner: 3
+Round 6 winner: 4
+Round 7 winner: 6
+Round 8 winner: 1
+Round 9 winner: 2
+Round 10 winner: 4
+Final sequence of winners: 4 6 4 6 3 4 6 1 2 4
+
+File: 00068-00001295.soi
+Round 1 winner: 1
+Round 2 winner: 5
+Round 3 winner: 1
+Round 4 winner: 5
+Round 5 winner: 1
+Round 6 winner: 4
+Round 7 winner: 5
+Round 8 winner: 1
+Round 9 winner: 7
+Round 10 winner: 5
+Final sequence of winners: 1 5 1 5 1 4 5 1 7 5
+
+File: 00068-00001242.soi
+Round 1 winner: 6
+Round 2 winner: 7
+Round 3 winner: 6
+Round 4 winner: 7
+Round 5 winner: 6
+Round 6 winner: 7
+Round 7 winner: 4
+Round 8 winner: 5
+Round 9 winner: 6
+Round 10 winner: 7
+Final sequence of winners: 6 7 6 7 6 7 4 5 6 7
+
+File: 00068-00000014.soi
+Round 1 winner: 3
+Round 2 winner: 1
+Round 3 winner: 2
+Round 4 winner: 3
+Round 5 winner: 1
+Round 6 winner: 2
+Round 7 winner: 3
+Round 8 winner: 1
+Round 9 winner: 4
+Round 10 winner: 2
+Final sequence of winners: 3 1 2 3 1 2 3 1 4 2
+
+File: 00068-00000004.soi
+Round 1 winner: 1
+Round 2 winner: 1
+Round 3 winner: 2
+Round 4 winner: 1
+Round 5 winner: 1
+Round 6 winner: 2
+Round 7 winner: 5
+Round 8 winner: 1
+Round 9 winner: 8
+Round 10 winner: 2
+Final sequence of winners: 1 1 2 1 1 2 5 1 8 2
+
+File: 00068-00000010.soi
+Round 1 winner: 6
+Round 2 winner: 7
+Round 3 winner: 6
+Round 4 winner: 7
+Round 5 winner: 4
+Round 6 winner: 6
+Round 7 winner: 7
+Round 8 winner: 1
+Round 9 winner: 6
+Round 10 winner: 7
+Final sequence of winners: 6 7 6 7 4 6 7 1 6 7
+
+File: 00068-00001246.soi
+Round 1 winner: 1
+Round 2 winner: 6
+Round 3 winner: 1
+Round 4 winner: 3
+Round 5 winner: 6
+Round 6 winner: 1
+Round 7 winner: 3
+Round 8 winner: 6
+Round 9 winner: 1
+Round 10 winner: 9
+Final sequence of winners: 1 6 1 3 6 1 3 6 1 9
+
+File: 00068-00000011.soi
+Round 1 winner: 3
+Round 2 winner: 3
+Round 3 winner: 3
+Round 4 winner: 4
+Round 5 winner: 1
+Round 6 winner: 2
+Round 7 winner: 3
+Round 8 winner: 4
+Round 9 winner: 3
+Round 10 winner: 1
+Final sequence of winners: 3 3 3 4 1 2 3 4 3 1
+
+File: 00068-00000005.soi
+Round 1 winner: 1
+Round 2 winner: 2
+Round 3 winner: 3
+Round 4 winner: 1
+Round 5 winner: 2
+Round 6 winner: 5
+Round 7 winner: 3
+Round 8 winner: 1
+Round 9 winner: 4
+Round 10 winner: 2
+Final sequence of winners: 1 2 3 1 2 5 3 1 4 2
+
+File: 00068-00000013.soi
+Round 1 winner: 3
+Round 2 winner: 4
+Round 3 winner: 3
+Round 4 winner: 4
+Round 5 winner: 3
+Round 6 winner: 6
+Round 7 winner: 4
+Round 8 winner: 1
+Round 9 winner: 3
+Round 10 winner: 4
+Final sequence of winners: 3 4 3 4 3 6 4 1 3 4
+
+File: 00068-00000007.soi
+Round 1 winner: 3
+Round 2 winner: 10
+Round 3 winner: 3
+Round 4 winner: 10
+Round 5 winner: 2
+Round 6 winner: 3
+Round 7 winner: 9
+Round 8 winner: 10
+Round 9 winner: 3
+Round 10 winner: 2
+Final sequence of winners: 3 10 3 10 2 3 9 10 3 2
+
+File: 00068-00001245.soi
+Round 1 winner: 3
+Round 2 winner: 3
+Round 3 winner: 4
+Round 4 winner: 3
+Round 5 winner: 3
+Round 6 winner: 4
+Round 7 winner: 7
+Round 8 winner: 3
+Round 9 winner: 4
+Round 10 winner: 1
+Final sequence of winners: 3 3 4 3 3 4 7 3 4 1
+
+File: 00068-00001244.soi
+Round 1 winner: 4
+Round 2 winner: 4
+Round 3 winner: 6
+Round 4 winner: 4
+Round 5 winner: 2
+Round 6 winner: 4
+Round 7 winner: 6
+Round 8 winner: 4
+Round 9 winner: 1
+Round 10 winner: 3
+Final sequence of winners: 4 4 6 4 2 4 6 4 1 3
+
+File: 00068-00000006.soi
+Round 1 winner: 5
+Round 2 winner: 5
+Round 3 winner: 4
+Round 4 winner: 5
+Round 5 winner: 6
+Round 6 winner: 5
+Round 7 winner: 4
+Round 8 winner: 5
+Round 9 winner: 5
+Round 10 winner: 6
+Final sequence of winners: 5 5 4 5 6 5 4 5 5 6
+
+File: 00068-00000012.soi
+Round 1 winner: 8
+Round 2 winner: 8
+Round 3 winner: 8
+Round 4 winner: 10
+Round 5 winner: 4
+Round 6 winner: 8
+Round 7 winner: 5
+Round 8 winner: 9
+Round 9 winner: 8
+Round 10 winner: 10
+Final sequence of winners: 8 8 8 10 4 8 5 9 8 10
+
