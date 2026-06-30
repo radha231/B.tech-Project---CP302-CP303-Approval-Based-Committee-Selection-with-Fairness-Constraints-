@@ -1,0 +1,5 @@
+===== Algorithm 4 (AlgMFMulti2) Result =====
+Minimum A+R (fairness cost): 60
+Best threshold t: 16
+Number of candidates: 383
+k: 5
